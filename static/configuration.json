@@ -1,15 +1,1 @@
-{
-    "githubUsername": "DemoMacro",
-    "blogTitle": "M13",
-    "blogDescribe": "DemoMacro's Blog",
-    "htmlTitle": "DemoMacro's Blog",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#000000",
-    "backgroundColorRight": "#000000",
-    "audioUrl": "http://music.163.com/song/media/outer/url?id=2526625.mp3",
-    "mini": false,
-    "webSites":[
-        {"name":"URLStack" , "url":"https://abc.imst.xyz"}
-    ]
-}
+{"githubUsername":"DemoMacro","blogTitle":"M13","blogDescribe":"DemoMacro's Blog","htmlTitle":"DemoMacro's Blog","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#000000","backgroundColorRight":"#000000","audioUrl":"http://music.163.com/song/media/outer/url?id=2526625.mp3","mini":false,"webSites":[{"name":"URLStack","url":"https://abc.imst.xyz"},{"name":"Oneindex","url":"https://index.imst.xyz/"}]}
