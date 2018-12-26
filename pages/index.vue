@@ -15,7 +15,7 @@
                 style="animation-delay: 0.65s"
               >
                 <div class="uk-visible@s">永远相信，美好的事情即将发生</div>
-              </div>
+              <!-- </div>
               <div class="uk-text-lead">
                 <div class="uk-hidden@s">
                   <div
@@ -26,7 +26,7 @@
                     class="uk-text-lead uk-animation-slide-left-small"
                     style="animation-delay: 0.8s"
                   >美好的事情即将发生</div>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
