@@ -1,9 +1,0 @@
-[build]
-  publish = "dist"
-  command = "npm run generate"
-
-[[redirects]]
-  from = "https://imst.netlify.com/*"
-  to = "https://imst.xyz/:splat"
-  status = 301
-  force = true
